@@ -215,8 +215,8 @@ export const SkillsInfo = [
         "Built a dynamic web application that enables users to search and view images in real time through API integration. Implemented responsive UI components, efficient state management, and optimized user interactions to provide a fast and engaging browsing experience.",
       image: imgsearchLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/SambalSingh90/Image-Search-App.git",
-      webapp: "https://sambalsingh90.github.io/Image-Search-App/",
+      github: "https://github.com/SambalSingh90/Search-Image-Application.git",
+      webapp: "https://sambalsingh90.github.io/Search-Image-Application/",
     },
     {
       id: 3,
